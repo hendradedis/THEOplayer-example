@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('theoplayer-android-supersoccertv20180702-2.39.1-javadoc.jar'))
